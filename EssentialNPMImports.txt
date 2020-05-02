@@ -1,0 +1,7 @@
+npm install -g
+npm add axios
+npm add react-router-dom
+npm add formik
+npm add react-calendar
+npm add @material-ui/core
+npm start
