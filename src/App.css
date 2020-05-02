@@ -1,0 +1,110 @@
+.App {
+  background-color: #ffffff;
+}
+
+.App-footer {
+  font-size: calc(10px);
+  text-align: center;
+  line-height: 4px;
+  background-color: white;
+  border-top: 5px solid #F01716;
+  left: 0px;
+  right: 0px;
+  height: 55px;
+  width: 100%;
+  position: fixed;
+  bottom: 0px;
+}
+
+.App-Ratingtable {
+  text-align: right;
+  float: right;
+}
+
+.App-SurveyTitle {
+  color: rgb(68, 114, 196);
+  font-size: 25px;
+}
+
+.Body {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.BottomBlankSpace {
+  padding-top: 80px;
+}
+
+.CalendarDates {
+  position: absolute;
+}
+
+.CalendarReport {
+  position: absolute;
+  left: 30%;
+  width: 67%;
+}
+
+.NavMenu {
+  border-bottom: 5px solid #F01716;
+}
+
+.popup {
+  position: absolute;
+  right: 50px;
+  background: white;
+  border: 5px solid #F01716;
+  text-align: left;
+  font-size: calc(15px);
+}
+
+.QuestionsSide {
+  position: absolute;
+  left: 35%;
+}
+
+.QuestionsTable {
+  border: 1px solid #d3d3d3;
+  width: 100%;
+}
+
+.QuestionTypeTable {
+  border: 1px solid #d3d3d3;
+  width: 60%;
+}
+
+.RatingScale {
+  border: 1px solid #d3d3d3;
+}
+
+.ResultsTable {
+  border: 1px solid #d3d3d3;
+}
+
+.SurveySelectTable {
+  border: 1px solid #d3d3d3;
+  width: 20%;
+}
+
+.SurveySide {
+  position: absolute;
+}
+
+.SurveyTable {
+  border: 1px solid #d3d3d3;
+  width: 100%;
+}
+
+.SurveyTypeSelectTable {
+  border: 1px solid #d3d3d3;
+  width: 75%;
+}
+
+.TeamSelectTable {
+  border: 1px solid #d3d3d3;
+  width: 20%;
+}
+
+.TopBlankSpace {
+  padding-top: 50px;
+}

@@ -1,0 +1,23 @@
+{
+    "team" : {
+        "teamid" : 0,
+        "teamName" : "Team 0"
+    },
+    "survey" : {
+        "surveyid" : 0,
+        "typeOfSurvey" : {
+            "type" : "Developer Survey",
+            "description" : "A survey taken by developers"
+        },
+        "name" : "Pre-Dojo Survey"
+    },
+    "results" : [{
+        "takensurveyid" : 0,
+        "totalScore" : 0.0,
+        "answers" : [{
+            "answerid" : 0,
+            "questionNumber" : 0,
+            "answer" : 5
+        }]
+    }]
+}
